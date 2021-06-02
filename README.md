@@ -6,7 +6,7 @@ It is a test project & returns the sum of two input number
  
 Setup Java, Leiningen script, Clojure, Node & NPM
  
-## Available Scripts For Backend Code
+## Available Script
  
 ### Development mode
 ```
